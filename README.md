@@ -25,7 +25,7 @@ composer install
 4. El siguiente paso es copiar el contenido del archivo **.env.example** en un nuevo archivo con el nombre **.env** , para eso debemos situarnos dentro del proyecto y ejecutar el siguiente comando:
  
 ```
-copy .env.example .env
+cp .env.example .env
 
 ```
 5. Generar APP_KEY, Para generar la **APP_KEY** del proyecto ejecuta el siguiente comando: 
