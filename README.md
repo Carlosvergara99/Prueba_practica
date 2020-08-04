@@ -22,7 +22,7 @@ git git@github.com:Carlosvergara99/Prueba_practica.git
 ```
 composer install
 ```
-4.El siguiente paso es copiar el contenido del archivo **.env.example** en un nuevo archivo con el nombre **.env** , para eso debemos situarnos dentro del proyecto y ejecutar el siguiente comando:
+4. El siguiente paso es copiar el contenido del archivo **.env.example** en un nuevo archivo con el nombre **.env** , para eso debemos situarnos dentro del proyecto y ejecutar el siguiente comando:
  
 ```
 copy .env.example .env
